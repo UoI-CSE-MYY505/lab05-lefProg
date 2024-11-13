@@ -2,7 +2,7 @@
 
 ## UoI-CSE-MYY505 lab05
 
-## First-Name Last-Name
+## BARMPAS-ELEFTHERIOS
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
 
@@ -13,10 +13,10 @@
 Add a few more tests in lab05.s to verify the correct operation of a 5-stage pipelined RISC-V processor.
 
 ## Files to work on
-* `lab05.s` 
+* `lab05.s`
 * `README.md` to add your name
-      
-## Running 
+
+## Running
 * To run the program interactively, start Ripes and load lab05.s
 
 
